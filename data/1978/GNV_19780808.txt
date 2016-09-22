@@ -1,0 +1,27 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,77.0,72.0,84,30.16,10.0,East,4.6,-,N/A,,Clear,80,1978-08-08 04:00:00<br />
+1:00 AM,75.0,73.0,94,30.16,10.0,East,4.6,-,N/A,,Clear,80,1978-08-08 05:00:00<br />
+2:00 AM,75.0,73.0,94,30.14,10.0,Calm,Calm,-,N/A,,Clear,0,1978-08-08 06:00:00<br />
+3:00 AM,73.9,73.0,97,30.14,10.0,Calm,Calm,-,N/A,,Clear,0,1978-08-08 07:00:00<br />
+4:00 AM,73.0,72.0,96,30.13,10.0,Calm,Calm,-,N/A,,Clear,0,1978-08-08 08:00:00<br />
+5:00 AM,73.0,72.0,96,30.13,7.0,Calm,Calm,-,N/A,,Clear,0,1978-08-08 09:00:00<br />
+6:00 AM,73.9,73.0,97,30.14,7.0,East,5.8,-,N/A,,Clear,80,1978-08-08 10:00:00<br />
+7:00 AM,73.9,73.0,97,30.14,7.0,East,5.8,-,N/A,,Scattered Clouds,80,1978-08-08 11:00:00<br />
+8:00 AM,75.0,73.9,96,30.16,7.0,East,4.6,-,N/A,,Scattered Clouds,90,1978-08-08 12:00:00<br />
+9:00 AM,80.1,68.0,67,30.16,10.0,East,6.9,-,N/A,,Scattered Clouds,80,1978-08-08 13:00:00<br />
+11:00 AM,86.0,73.9,67,30.17,15.0,ESE,6.9,-,N/A,,Mostly Cloudy,120,1978-08-08 15:00:00<br />
+12:00 PM,-9999,-9999,N/A,30.16,15.0,ESE,6.9,-,N/A,,Mostly Cloudy,110,1978-08-08 16:00:00<br />
+1:00 PM,87.1,73.0,63,30.14,10.0,SSE,8.1,-,N/A,Thunderstorm,Thunderstorm,150,1978-08-08 17:00:00<br />
+1:19 PM,-9999,-9999,N/A,30.16,2.0,ESE,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,110,1978-08-08 17:19:00<br />
+2:00 PM,77.0,75.9,96,30.16,4.0,Calm,Calm,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,0,1978-08-08 18:00:00<br />
+2:21 PM,-9999,-9999,N/A,30.15,7.0,Calm,Calm,-,N/A,,Overcast,0,1978-08-08 18:21:00<br />
+3:00 PM,77.0,75.9,96,30.13,10.0,East,6.9,-,N/A,,Overcast,80,1978-08-08 19:00:00<br />
+4:00 PM,78.1,75.0,90,30.11,15.0,ENE,8.1,-,N/A,,Overcast,60,1978-08-08 20:00:00<br />
+5:00 PM,80.1,73.9,81,30.11,15.0,East,3.5,-,N/A,,Overcast,90,1978-08-08 21:00:00<br />
+6:00 PM,79.0,75.0,88,30.10,15.0,South,6.9,-,N/A,Rain,Light Rain Showers,180,1978-08-08 22:00:00<br />
+7:00 PM,78.1,77.0,96,30.12,15.0,Calm,Calm,-,N/A,,Overcast,0,1978-08-08 23:00:00<br />
+8:00 PM,77.0,75.9,96,30.12,10.0,East,4.6,-,N/A,,Mostly Cloudy,100,1978-08-09 00:00:00<br />
+9:00 PM,77.0,75.9,96,30.14,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1978-08-09 01:00:00<br />
+10:00 PM,75.0,75.0,100,30.14,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1978-08-09 02:00:00<br />
+11:00 PM,75.0,75.0,100,30.16,10.0,East,4.6,-,N/A,,Scattered Clouds,90,1978-08-09 03:00:00<br />

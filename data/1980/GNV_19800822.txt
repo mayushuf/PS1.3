@@ -1,0 +1,25 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,75.9,73.0,91,29.88,7.0,West,5.8,-,N/A,,Scattered Clouds,260,1980-08-22 04:00:00<br />
+1:00 AM,73.9,73.0,97,29.88,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1980-08-22 05:00:00<br />
+2:00 AM,73.9,73.0,97,29.87,7.0,Calm,Calm,-,N/A,,Overcast,0,1980-08-22 06:00:00<br />
+3:00 AM,73.0,72.0,96,29.85,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1980-08-22 07:00:00<br />
+4:00 AM,73.0,72.0,96,29.86,7.0,Calm,Calm,-,N/A,,Overcast,0,1980-08-22 08:00:00<br />
+5:00 AM,73.9,73.0,97,29.86,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1980-08-22 09:00:00<br />
+6:00 AM,73.0,72.0,96,29.88,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1980-08-22 10:00:00<br />
+7:00 AM,73.0,72.0,96,29.88,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1980-08-22 11:00:00<br />
+8:00 AM,73.9,73.0,97,29.89,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1980-08-22 12:00:00<br />
+9:00 AM,79.0,75.0,88,29.90,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1980-08-22 13:00:00<br />
+10:00 AM,84.0,75.9,76,29.91,5.0,WNW,5.8,-,N/A,,Drizzle,290,1980-08-22 14:00:00<br />
+11:00 AM,89.1,73.9,61,29.92,6.0,NW,6.9,-,N/A,,Drizzle,310,1980-08-22 15:00:00<br />
+12:00 PM,77.0,32.0,19,29.91,6.0,West,8.1,-,N/A,,Drizzle,270,1980-08-22 16:00:00<br />
+1:00 PM,93.0,73.9,54,29.90,6.0,West,8.1,-,N/A,,Drizzle,280,1980-08-22 17:00:00<br />
+2:00 PM,95.0,75.0,52,29.88,6.0,WSW,8.1,-,N/A,,Drizzle,240,1980-08-22 18:00:00<br />
+3:00 PM,97.0,77.0,53,29.86,5.0,West,12.7,-,N/A,,Drizzle,260,1980-08-22 19:00:00<br />
+4:00 PM,96.1,77.0,54,29.84,5.0,SW,8.1,-,N/A,Fog,Fog,220,1980-08-22 20:00:00<br />
+5:00 PM,95.0,78.1,58,29.81,5.0,WSW,6.9,-,N/A,,Drizzle,250,1980-08-22 21:00:00<br />
+6:00 PM,93.9,79.0,62,29.81,5.0,WSW,8.1,-,N/A,,Drizzle,250,1980-08-22 22:00:00<br />
+7:00 PM,84.9,71.1,63,29.84,5.0,ENE,8.1,-,N/A,Thunderstorm,Unknown,60,1980-08-22 23:00:00<br />
+8:00 PM,82.9,70.0,65,29.84,5.0,West,13.8,-,N/A,Thunderstorm,Unknown,280,1980-08-23 00:00:00<br />
+10:00 PM,72.0,71.1,97,29.94,5.0,ESE,4.6,-,N/A,Fog-Thunderstorm,Unknown,120,1980-08-23 02:00:00<br />
+11:00 PM,72.0,71.1,97,29.94,5.0,ESE,9.2,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,120,1980-08-23 03:00:00<br />

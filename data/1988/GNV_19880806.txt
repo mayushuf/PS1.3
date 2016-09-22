@@ -1,0 +1,30 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,73.9,73.0,97,30.06,4.0,NNW,4.6,-,N/A,Fog,Fog,340,1988-08-06 04:00:00<br />
+1:00 AM,73.9,73.0,97,30.06,3.0,North,4.6,-,N/A,Fog,Fog,350,1988-08-06 05:00:00<br />
+2:00 AM,73.9,73.0,97,30.05,3.0,North,4.6,-,N/A,Fog,Fog,10,1988-08-06 06:00:00<br />
+3:00 AM,73.0,72.0,96,30.04,3.0,East,4.6,-,N/A,Fog,Fog,80,1988-08-06 07:00:00<br />
+4:00 AM,73.0,73.0,100,30.04,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1988-08-06 08:00:00<br />
+5:00 AM,73.9,73.0,97,30.05,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1988-08-06 09:00:00<br />
+6:00 AM,73.0,73.0,100,30.05,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1988-08-06 10:00:00<br />
+7:00 AM,72.0,71.1,97,30.06,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1988-08-06 11:00:00<br />
+8:00 AM,73.0,73.0,100,30.07,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1988-08-06 12:00:00<br />
+9:00 AM,79.0,75.0,88,30.08,4.0,WSW,4.6,-,N/A,Fog,Fog,240,1988-08-06 13:00:00<br />
+10:00 AM,82.9,75.9,79,30.09,5.0,SSE,4.6,-,N/A,,Drizzle,150,1988-08-06 14:00:00<br />
+11:00 AM,86.0,75.0,70,30.10,6.0,NNW,5.8,-,N/A,,Drizzle,330,1988-08-06 15:00:00<br />
+12:00 PM,87.1,75.0,67,30.10,6.0,West,4.6,-,N/A,,Drizzle,270,1988-08-06 16:00:00<br />
+1:00 PM,89.1,73.9,61,30.08,6.0,ENE,5.8,-,N/A,,Drizzle,70,1988-08-06 17:00:00<br />
+2:00 PM,89.1,72.0,57,30.06,6.0,NNW,6.9,-,N/A,,Drizzle,340,1988-08-06 18:00:00<br />
+3:00 PM,90.0,72.0,55,30.04,6.0,WNW,6.9,-,N/A,,Drizzle,300,1988-08-06 19:00:00<br />
+4:00 PM,91.9,72.0,52,30.02,6.0,WNW,8.1,-,N/A,,Drizzle,300,1988-08-06 20:00:00<br />
+5:00 PM,91.9,72.0,52,30.00,6.0,West,8.1,-,N/A,,Drizzle,260,1988-08-06 21:00:00<br />
+6:00 PM,91.9,72.0,52,29.99,6.0,NW,8.1,-,N/A,,Drizzle,320,1988-08-06 22:00:00<br />
+7:00 PM,91.0,71.1,52,30.01,6.0,North,6.9,-,N/A,,Drizzle,360,1988-08-06 23:00:00<br />
+7:30 PM,-9999,-9999,N/A,30.02,6.0,ESE,12.7,-,N/A,Thunderstorm,Unknown,120,1988-08-06 23:30:00<br />
+7:54 PM,-9999,-9999,N/A,30.05,2.0,SE,13.8,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,140,1988-08-06 23:54:00<br />
+8:00 PM,80.1,70.0,71,30.04,6.0,South,19.6,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,170,1988-08-07 00:00:00<br />
+8:08 PM,-9999,-9999,N/A,30.05,5.5,SW,17.3,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,230,1988-08-07 00:08:00<br />
+9:00 PM,73.0,71.1,93,30.06,2.0,WNW,5.8,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,290,1988-08-07 01:00:00<br />
+9:11 PM,-9999,-9999,N/A,30.06,4.0,WNW,5.8,-,N/A,Fog-Rain,Light Rain Showers,300,1988-08-07 01:11:00<br />
+10:00 PM,73.0,72.0,96,30.06,4.0,Calm,Calm,-,N/A,Fog,Fog,0,1988-08-07 02:00:00<br />
+11:00 PM,73.0,73.0,100,30.06,6.0,Calm,Calm,-,N/A,Fog,Fog,0,1988-08-07 03:00:00<br />

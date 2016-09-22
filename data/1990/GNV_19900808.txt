@@ -1,0 +1,30 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,73.0,73.0,100,30.02,7.0,Calm,Calm,-,N/A,Fog,Fog,0,1990-08-08 04:00:00<br />
+1:00 AM,73.9,73.0,97,30.00,5.0,South,5.8,-,N/A,Fog,Fog,190,1990-08-08 05:00:00<br />
+2:00 AM,73.0,72.0,96,29.99,6.0,Calm,Calm,-,N/A,Fog,Fog,0,1990-08-08 06:00:00<br />
+3:00 AM,73.0,72.0,96,29.98,6.0,SSW,4.6,-,N/A,Fog,Fog,200,1990-08-08 07:00:00<br />
+4:00 AM,72.0,72.0,100,29.98,6.0,East,5.8,-,N/A,Fog,Fog,90,1990-08-08 08:00:00<br />
+5:00 AM,71.1,71.1,100,29.99,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1990-08-08 09:00:00<br />
+6:00 AM,71.1,71.1,100,29.99,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1990-08-08 10:00:00<br />
+7:00 AM,71.1,71.1,100,30.00,6.0,Calm,Calm,-,N/A,Fog,Fog,0,1990-08-08 11:00:00<br />
+8:00 AM,73.9,73.0,97,30.00,6.0,Calm,Calm,-,N/A,Fog,Fog,0,1990-08-08 12:00:00<br />
+9:00 AM,79.0,73.9,84,30.01,6.0,Calm,Calm,-,N/A,,Drizzle,0,1990-08-08 13:00:00<br />
+10:00 AM,84.9,75.9,74,30.01,6.0,Calm,Calm,-,N/A,,Drizzle,0,1990-08-08 14:00:00<br />
+11:00 AM,88.0,77.0,70,30.02,6.0,WSW,5.8,-,N/A,,Drizzle,250,1990-08-08 15:00:00<br />
+12:00 PM,89.1,77.0,67,30.03,6.0,South,4.6,-,N/A,,Drizzle,180,1990-08-08 16:00:00<br />
+12:23 PM,-9999,-9999,N/A,30.03,6.0,Calm,Calm,-,N/A,Thunderstorm,Unknown,0,1990-08-08 16:23:00<br />
+1:00 PM,84.9,73.9,69,30.02,6.0,ESE,10.4,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,120,1990-08-08 17:00:00<br />
+1:19 PM,-9999,-9999,N/A,30.02,6.0,ESE,6.9,-,N/A,Rain,Light Rain,120,1990-08-08 17:19:00<br />
+2:00 PM,89.1,78.1,70,30.00,6.0,ESE,5.8,-,N/A,,Drizzle,120,1990-08-08 18:00:00<br />
+2:17 PM,-9999,-9999,N/A,29.99,6.0,SE,5.8,-,N/A,Thunderstorm,Unknown,140,1990-08-08 18:17:00<br />
+3:00 PM,81.0,77.0,88,30.03,5.5,South,8.1,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,180,1990-08-08 19:00:00<br />
+4:00 PM,71.1,71.1,100,30.05,3.0,ENE,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,70,1990-08-08 20:00:00<br />
+5:00 PM,72.0,71.1,97,30.01,3.0,ESE,6.9,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,120,1990-08-08 21:00:00<br />
+5:05 PM,-9999,-9999,N/A,30.01,5.0,East,6.9,-,N/A,Thunderstorm,Unknown,90,1990-08-08 21:05:00<br />
+6:00 PM,73.0,73.0,100,30.01,5.0,East,5.8,-,N/A,,Drizzle,100,1990-08-08 22:00:00<br />
+7:00 PM,75.0,73.0,94,29.99,6.0,SE,6.9,-,N/A,,Drizzle,140,1990-08-08 23:00:00<br />
+8:00 PM,73.9,73.0,97,30.01,6.0,South,5.8,-,N/A,,Drizzle,190,1990-08-09 00:00:00<br />
+9:00 PM,73.0,73.0,100,30.01,6.0,SSE,3.5,-,N/A,Fog,Fog,150,1990-08-09 01:00:00<br />
+10:00 PM,73.0,73.0,100,30.04,5.0,North,4.6,-,N/A,Fog,Fog,350,1990-08-09 02:00:00<br />
+11:00 PM,73.0,72.0,96,30.06,4.0,North,6.9,-,N/A,Fog,Fog,360,1990-08-09 03:00:00<br />

@@ -1,0 +1,34 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:53 AM,75.9,75.0,97,29.99,6.0,Calm,Calm,-,N/A,,Clear,0,2009-08-13 04:53:00<br />
+1:53 AM,77.0,75.9,96,29.97,6.0,NNE,3.5,-,N/A,,Clear,30,2009-08-13 05:53:00<br />
+2:53 AM,75.0,73.9,96,29.97,6.0,Calm,Calm,-,N/A,,Clear,0,2009-08-13 06:53:00<br />
+3:53 AM,75.0,73.9,96,29.96,6.0,Calm,Calm,-,N/A,,Clear,0,2009-08-13 07:53:00<br />
+4:53 AM,75.0,73.9,96,29.94,6.0,Calm,Calm,-,N/A,,Clear,0,2009-08-13 08:53:00<br />
+5:53 AM,75.0,73.9,96,29.95,6.0,Calm,Calm,-,N/A,,Clear,0,2009-08-13 09:53:00<br />
+6:53 AM,73.9,73.0,97,29.97,6.0,Calm,Calm,-,N/A,,Clear,0,2009-08-13 10:53:00<br />
+7:53 AM,75.9,75.0,97,30.00,5.0,SE,3.5,-,N/A,,Clear,130,2009-08-13 11:53:00<br />
+8:53 AM,80.1,75.9,87,30.01,10.0,South,3.5,-,N/A,,Clear,180,2009-08-13 12:53:00<br />
+9:53 AM,84.0,75.9,76,30.01,10.0,SSW,5.8,-,N/A,,Clear,200,2009-08-13 13:53:00<br />
+10:53 AM,84.9,75.9,74,30.02,10.0,Variable,3.5,-,N/A,,Scattered Clouds,0,2009-08-13 14:53:00<br />
+11:53 AM,81.0,73.9,79,30.03,10.0,WSW,8.1,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,250,2009-08-13 15:53:00<br />
+12:07 PM,77.0,71.6,83,30.05,1.5,Calm,Calm,-,0.02,Rain-Thunderstorm,Heavy Thunderstorms and Rain,0,2009-08-13 16:07:00<br />
+12:17 PM,75.2,73.4,94,30.04,3.0,East,6.9,-,0.13,Rain-Thunderstorm,Heavy Thunderstorms and Rain,80,2009-08-13 16:17:00<br />
+12:31 PM,77.0,71.6,83,30.04,1.8,SE,15.0,21.9,0.20,Rain-Thunderstorm,Heavy Thunderstorms and Rain,140,2009-08-13 16:31:00<br />
+12:39 PM,78.8,71.6,78,30.03,5.0,ENE,8.1,20.7,0.25,Rain-Thunderstorm,Light Thunderstorms and Rain,70,2009-08-13 16:39:00<br />
+12:53 PM,81.0,73.9,79,30.01,10.0,NE,3.5,-,0.26,Rain,Light Rain,40,2009-08-13 16:53:00<br />
+1:38 PM,84.2,73.4,70,30.02,10.0,WNW,3.5,-,0.00,Thunderstorm,Thunderstorm,300,2009-08-13 17:38:00<br />
+1:53 PM,79.0,71.1,77,30.02,10.0,West,15.0,24.2,0.00,Thunderstorm,Thunderstorm,270,2009-08-13 17:53:00<br />
+2:04 PM,78.8,71.6,78,30.01,10.0,West,10.4,-,N/A,,Mostly Cloudy,260,2009-08-13 18:04:00<br />
+2:53 PM,75.9,73.0,91,30.00,10.0,NW,5.8,-,0.00,Rain,Light Rain,320,2009-08-13 18:53:00<br />
+3:53 PM,82.0,75.0,79,30.02,10.0,Variable,3.5,-,0.00,,Mostly Cloudy,0,2009-08-13 19:53:00<br />
+4:53 PM,82.0,75.9,82,30.01,10.0,East,10.4,-,N/A,,Clear,80,2009-08-13 20:53:00<br />
+5:42 PM,80.6,71.6,74,30.02,10.0,East,9.2,-,N/A,Thunderstorm,Thunderstorm,80,2009-08-13 21:42:00<br />
+5:53 PM,79.0,70.0,74,30.01,10.0,ENE,10.4,-,N/A,Thunderstorm,Thunderstorm,70,2009-08-13 21:53:00<br />
+6:27 PM,78.8,71.6,78,30.02,10.0,SW,4.6,-,N/A,,Clear,230,2009-08-13 22:27:00<br />
+6:53 PM,77.0,73.0,88,30.00,10.0,SSE,4.6,-,0.01,Rain,Light Rain,150,2009-08-13 22:53:00<br />
+7:53 PM,77.0,73.9,90,30.02,10.0,Calm,Calm,-,0.00,,Clear,0,2009-08-13 23:53:00<br />
+8:53 PM,75.0,73.9,96,30.02,10.0,SE,5.8,-,0.00,Rain,Light Rain,140,2009-08-14 00:53:00<br />
+9:53 PM,73.9,73.0,97,30.04,10.0,NNW,4.6,-,0.00,,Clear,330,2009-08-14 01:53:00<br />
+10:53 PM,73.0,72.0,96,30.02,9.0,Calm,Calm,-,N/A,,Clear,0,2009-08-14 02:53:00<br />
+11:53 PM,73.0,72.0,96,30.03,9.0,Calm,Calm,-,N/A,,Clear,0,2009-08-14 03:53:00<br />

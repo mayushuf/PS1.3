@@ -1,0 +1,31 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,75.0,71.1,87,30.00,6.0,East,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,80,1987-08-10 04:00:00<br />
+12:40 AM,-9999,-9999,N/A,29.97,6.0,Calm,Calm,-,N/A,,Drizzle,0,1987-08-10 04:40:00<br />
+1:00 AM,77.0,71.1,82,29.97,6.0,Calm,Calm,-,N/A,,Drizzle,0,1987-08-10 05:00:00<br />
+2:00 AM,78.1,71.1,79,29.95,7.0,Calm,Calm,-,N/A,,Overcast,0,1987-08-10 06:00:00<br />
+3:00 AM,75.9,72.0,87,29.94,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1987-08-10 07:00:00<br />
+4:00 AM,75.0,73.0,94,29.92,7.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1987-08-10 08:00:00<br />
+5:00 AM,78.1,73.9,87,29.91,7.0,NNW,4.6,-,N/A,,Partly Cloudy,330,1987-08-10 09:00:00<br />
+6:00 AM,79.0,75.0,88,29.91,7.0,NNW,6.9,-,N/A,,Partly Cloudy,330,1987-08-10 10:00:00<br />
+7:00 AM,79.0,75.0,88,29.92,6.0,NNW,9.2,-,N/A,Fog,Fog,330,1987-08-10 11:00:00<br />
+8:00 AM,80.1,75.0,85,29.94,6.0,NNW,5.8,-,N/A,Fog,Fog,330,1987-08-10 12:00:00<br />
+9:00 AM,82.9,75.9,79,29.95,7.0,NNW,5.8,-,N/A,,Clear,330,1987-08-10 13:00:00<br />
+10:00 AM,87.1,77.0,72,29.96,7.0,NNW,9.2,-,N/A,,Clear,330,1987-08-10 14:00:00<br />
+11:00 AM,90.0,78.1,68,29.96,6.0,North,11.5,-,N/A,,Drizzle,350,1987-08-10 15:00:00<br />
+12:00 PM,93.0,78.1,62,29.96,6.0,NNW,9.2,-,N/A,,Drizzle,330,1987-08-10 16:00:00<br />
+1:00 PM,93.9,77.0,58,29.95,6.0,NNW,8.1,-,N/A,,Drizzle,340,1987-08-10 17:00:00<br />
+2:00 PM,95.0,77.0,56,29.91,6.0,North,12.7,-,N/A,,Drizzle,350,1987-08-10 18:00:00<br />
+3:00 PM,93.0,73.9,54,29.89,6.0,NW,13.8,-,N/A,,Drizzle,320,1987-08-10 19:00:00<br />
+3:30 PM,-9999,-9999,N/A,29.88,6.0,NW,11.5,17.3,N/A,Thunderstorm,Unknown,320,1987-08-10 19:30:00<br />
+4:00 PM,91.0,73.0,55,29.88,6.0,NW,11.5,17.3,N/A,Rain-Thunderstorm,Thunderstorms and Rain,320,1987-08-10 20:00:00<br />
+4:30 PM,-9999,-9999,N/A,29.87,6.0,NW,10.4,-,N/A,,Drizzle,320,1987-08-10 20:30:00<br />
+5:00 PM,90.0,75.0,61,29.87,6.0,NW,9.2,-,N/A,,Drizzle,320,1987-08-10 21:00:00<br />
+6:00 PM,88.0,75.0,65,29.90,6.0,NW,9.2,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,320,1987-08-10 22:00:00<br />
+7:00 PM,80.1,75.0,85,29.91,4.0,North,9.2,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,360,1987-08-10 23:00:00<br />
+7:30 PM,-9999,-9999,N/A,29.90,4.0,SSE,5.8,-,N/A,Rain,Light Rain,150,1987-08-10 23:30:00<br />
+8:00 PM,75.9,75.0,97,29.90,5.0,South,6.9,-,N/A,,Drizzle,180,1987-08-11 00:00:00<br />
+9:00 PM,75.9,73.9,94,29.89,5.0,WSW,8.1,-,N/A,Fog,Fog,240,1987-08-11 01:00:00<br />
+10:00 PM,75.0,71.1,87,29.92,5.0,WNW,6.9,-,N/A,Fog,Fog,300,1987-08-11 02:00:00<br />
+10:35 PM,-9999,-9999,N/A,29.95,5.0,NNW,11.5,-,N/A,Thunderstorm,Unknown,330,1987-08-11 02:35:00<br />
+11:00 PM,75.0,71.1,87,29.94,5.0,NW,9.2,-,N/A,,Drizzle,310,1987-08-11 03:00:00<br />

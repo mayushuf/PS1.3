@@ -1,0 +1,27 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.0,75.9,82,30.04,7.0,SSE,6.9,-,N/A,,Scattered Clouds,160,1989-08-24 04:00:00<br />
+1:00 AM,81.0,75.0,82,30.04,7.0,South,8.1,-,N/A,,Scattered Clouds,170,1989-08-24 05:00:00<br />
+2:00 AM,80.1,75.0,85,30.04,7.0,Calm,Calm,-,N/A,,Partly Cloudy,0,1989-08-24 06:00:00<br />
+3:00 AM,78.1,75.0,90,30.03,7.0,South,5.8,-,N/A,,Clear,190,1989-08-24 07:00:00<br />
+4:00 AM,77.0,73.9,90,30.02,7.0,South,4.6,-,N/A,,Clear,180,1989-08-24 08:00:00<br />
+5:00 AM,75.9,73.0,91,30.00,7.0,South,6.9,-,N/A,,Clear,190,1989-08-24 09:00:00<br />
+6:00 AM,75.0,73.0,94,30.00,7.0,SSW,5.8,-,N/A,,Clear,200,1989-08-24 10:00:00<br />
+7:00 AM,75.0,73.0,94,30.01,7.0,SW,4.6,-,N/A,,Partly Cloudy,220,1989-08-24 11:00:00<br />
+8:00 AM,75.9,73.0,91,30.03,7.0,South,3.5,-,N/A,,Unknown,170,1989-08-24 12:00:00<br />
+9:00 AM,80.1,75.0,85,30.04,7.0,South,6.9,-,N/A,,Partly Cloudy,190,1989-08-24 13:00:00<br />
+10:00 AM,82.9,75.0,77,30.04,7.0,SSW,6.9,-,N/A,,Scattered Clouds,200,1989-08-24 14:00:00<br />
+11:00 AM,84.9,75.0,72,30.05,7.0,West,5.8,-,N/A,,Mostly Cloudy,270,1989-08-24 15:00:00<br />
+12:00 PM,87.1,75.9,69,30.04,7.0,NNW,10.4,-,N/A,,Scattered Clouds,330,1989-08-24 16:00:00<br />
+1:00 PM,87.1,75.9,69,30.03,7.0,NNE,4.6,-,N/A,,Scattered Clouds,20,1989-08-24 17:00:00<br />
+2:00 PM,89.1,79.0,72,30.01,7.0,ENE,4.6,-,N/A,,Scattered Clouds,70,1989-08-24 18:00:00<br />
+3:00 PM,90.0,75.9,63,29.99,7.0,WNW,6.9,-,N/A,,Scattered Clouds,290,1989-08-24 19:00:00<br />
+4:00 PM,91.0,75.0,59,29.96,7.0,NE,5.8,-,N/A,,Scattered Clouds,50,1989-08-24 20:00:00<br />
+5:00 PM,91.9,75.0,58,29.93,7.0,WNW,4.6,-,N/A,,Scattered Clouds,290,1989-08-24 21:00:00<br />
+6:00 PM,91.9,75.9,59,29.92,7.0,South,8.1,-,N/A,,Scattered Clouds,170,1989-08-24 22:00:00<br />
+7:00 PM,89.1,75.9,65,29.93,7.0,SSW,5.8,-,N/A,,Scattered Clouds,210,1989-08-24 23:00:00<br />
+7:18 PM,-9999,-9999,N/A,29.95,7.0,West,17.3,-,N/A,Thunderstorm,Thunderstorm,280,1989-08-24 23:18:00<br />
+8:00 PM,81.0,73.0,77,29.95,7.0,West,12.7,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,280,1989-08-25 00:00:00<br />
+9:00 PM,78.1,73.0,84,29.98,7.0,East,9.2,-,N/A,,Mostly Cloudy,80,1989-08-25 01:00:00<br />
+10:00 PM,79.0,72.0,79,30.00,7.0,NNW,5.8,-,N/A,,Mostly Cloudy,330,1989-08-25 02:00:00<br />
+11:00 PM,78.1,73.0,84,30.02,7.0,NE,4.6,-,N/A,,Overcast,50,1989-08-25 03:00:00<br />

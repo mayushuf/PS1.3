@@ -1,0 +1,26 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,75.0,70.0,84,30.14,15.0,ESE,4.6,-,N/A,,Clear,120,1976-08-30 04:00:00<br />
+1:00 AM,73.9,71.1,91,30.13,15.0,SE,3.5,-,N/A,,Clear,140,1976-08-30 05:00:00<br />
+2:00 AM,72.0,70.0,93,30.12,15.0,Calm,Calm,-,N/A,,Clear,0,1976-08-30 06:00:00<br />
+3:00 AM,71.1,69.1,93,30.10,15.0,Calm,Calm,-,N/A,,Clear,0,1976-08-30 07:00:00<br />
+4:00 AM,70.0,68.0,93,30.09,15.0,Calm,Calm,-,N/A,,Clear,0,1976-08-30 08:00:00<br />
+5:00 AM,69.1,68.0,96,30.09,15.0,Calm,Calm,-,N/A,,Clear,0,1976-08-30 09:00:00<br />
+6:00 AM,68.0,66.9,96,30.10,15.0,Calm,Calm,-,N/A,,Clear,0,1976-08-30 10:00:00<br />
+7:00 AM,66.9,66.0,97,30.11,6.0,Calm,Calm,-,N/A,,Clear,0,1976-08-30 11:00:00<br />
+8:00 AM,69.1,66.0,90,30.12,8.0,Calm,Calm,-,N/A,,Clear,0,1976-08-30 12:00:00<br />
+9:00 AM,75.0,71.1,87,30.12,10.0,NNW,4.6,-,N/A,,Clear,330,1976-08-30 13:00:00<br />
+10:00 AM,81.0,70.0,69,30.12,10.0,Calm,Calm,-,N/A,,Clear,0,1976-08-30 14:00:00<br />
+11:00 AM,84.9,66.0,53,30.12,15.0,WNW,4.6,-,N/A,,Clear,290,1976-08-30 15:00:00<br />
+12:00 PM,89.1,69.1,52,30.11,15.0,NNW,6.9,-,N/A,,Clear,340,1976-08-30 16:00:00<br />
+1:00 PM,91.0,70.0,50,30.09,15.0,NNE,6.9,-,N/A,,Scattered Clouds,30,1976-08-30 17:00:00<br />
+2:00 PM,93.0,70.0,47,30.07,15.0,ENE,8.1,-,N/A,,Scattered Clouds,70,1976-08-30 18:00:00<br />
+3:00 PM,93.0,64.9,39,30.06,15.0,East,5.8,-,N/A,,Scattered Clouds,80,1976-08-30 19:00:00<br />
+4:00 PM,93.9,66.0,40,30.02,15.0,SE,4.6,-,N/A,,Scattered Clouds,130,1976-08-30 20:00:00<br />
+5:00 PM,91.9,66.0,42,30.00,15.0,ESE,10.4,-,N/A,,Scattered Clouds,120,1976-08-30 21:00:00<br />
+6:00 PM,86.0,70.0,59,30.00,15.0,SE,13.8,-,N/A,,Scattered Clouds,130,1976-08-30 22:00:00<br />
+7:00 PM,82.0,69.1,65,30.04,15.0,NNE,17.3,-,N/A,,Mostly Cloudy,30,1976-08-30 23:00:00<br />
+8:00 PM,-9999,-9999,N/A,30.05,10.0,North,8.1,-,N/A,Thunderstorm,Thunderstorm,10,1976-08-31 00:00:00<br />
+9:00 PM,75.9,70.0,82,30.09,10.0,North,10.4,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,360,1976-08-31 01:00:00<br />
+10:00 PM,73.9,72.0,93,30.07,10.0,Calm,Calm,-,N/A,Rain,Light Rain,0,1976-08-31 02:00:00<br />
+11:00 PM,73.0,72.0,96,30.07,7.0,NNW,4.6,-,N/A,Rain,Light Rain,340,1976-08-31 03:00:00<br />

@@ -1,0 +1,19 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,73.9,71.1,91,29.99,4.0,North,-9999.0,-,N/A,,Drizzle,0,1982-08-04 04:00:00<br />
+1:00 AM,73.9,70.0,87,29.99,4.0,Calm,Calm,-,N/A,,Drizzle,0,1982-08-04 05:00:00<br />
+2:00 AM,73.0,69.1,87,29.98,4.0,Calm,Calm,-,N/A,,Drizzle,0,1982-08-04 06:00:00<br />
+3:00 AM,71.1,69.1,93,29.96,3.0,Calm,Calm,-,N/A,,Drizzle,0,1982-08-04 07:00:00<br />
+4:00 AM,70.0,69.1,97,29.95,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1982-08-04 08:00:00<br />
+5:00 AM,70.0,68.0,93,29.96,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1982-08-04 09:00:00<br />
+6:00 AM,69.1,66.9,93,29.96,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1982-08-04 10:00:00<br />
+7:00 AM,69.1,66.9,93,29.98,10.5,Calm,Calm,-,N/A,Fog,Fog,0,1982-08-04 11:00:00<br />
+8:00 AM,70.0,68.0,93,30.00,10.5,Calm,Calm,-,N/A,Fog,Fog,0,1982-08-04 12:00:00<br />
+9:00 AM,75.9,71.1,85,30.01,10.5,North,5.8,-,N/A,,Drizzle,360,1982-08-04 13:00:00<br />
+9:44 AM,-9999,-9999,N/A,30.02,3.0,North,5.8,-,N/A,,Drizzle,360,1982-08-04 13:44:00<br />
+10:00 AM,81.0,72.0,74,30.03,3.0,NNW,5.8,-,N/A,,Drizzle,340,1982-08-04 14:00:00<br />
+1:00 PM,89.1,69.1,52,30.03,4.0,NE,5.8,-,N/A,,Drizzle,50,1982-08-04 17:00:00<br />
+2:00 PM,89.1,69.1,52,30.02,3.0,NNE,5.8,-,N/A,,Drizzle,20,1982-08-04 18:00:00<br />
+5:00 PM,88.0,69.1,53,29.99,3.0,ENE,8.1,-,N/A,,Drizzle,70,1982-08-04 21:00:00<br />
+8:00 PM,82.0,70.0,67,30.00,3.0,East,6.9,-,N/A,,Drizzle,90,1982-08-05 00:00:00<br />
+10:00 PM,78.1,72.0,81,30.04,3.0,East,5.8,-,N/A,,Drizzle,80,1982-08-05 02:00:00<br />

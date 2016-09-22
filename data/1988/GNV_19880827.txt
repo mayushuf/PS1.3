@@ -1,0 +1,48 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,73.0,70.0,90,29.96,7.0,SE,5.8,-,N/A,,Mostly Cloudy,130,1988-08-27 04:00:00<br />
+1:00 AM,72.0,70.0,93,29.95,7.0,ESE,3.5,-,N/A,,Scattered Clouds,110,1988-08-27 05:00:00<br />
+2:00 AM,71.1,69.1,93,29.93,7.0,ESE,5.8,-,N/A,,Scattered Clouds,120,1988-08-27 06:00:00<br />
+3:00 AM,69.1,69.1,100,29.92,7.0,ENE,5.8,-,N/A,,Mostly Cloudy,70,1988-08-27 07:00:00<br />
+4:00 AM,70.0,70.0,100,29.93,7.0,NNE,5.8,-,N/A,,Mostly Cloudy,30,1988-08-27 08:00:00<br />
+5:00 AM,70.0,69.1,97,29.93,6.0,ESE,4.6,-,N/A,Fog,Fog,120,1988-08-27 09:00:00<br />
+6:00 AM,71.1,70.0,96,29.95,6.0,East,5.8,-,N/A,Fog,Fog,90,1988-08-27 10:00:00<br />
+7:00 AM,71.1,71.1,100,29.95,6.0,East,3.5,-,N/A,Fog,Fog,90,1988-08-27 11:00:00<br />
+7:32 AM,-9999,-9999,N/A,29.96,6.0,East,5.8,-,N/A,Fog-Thunderstorm,Unknown,90,1988-08-27 11:32:00<br />
+8:00 AM,73.0,72.0,96,29.96,6.0,ESE,5.8,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,110,1988-08-27 12:00:00<br />
+8:25 AM,-9999,-9999,N/A,29.97,6.0,SSE,8.1,-,N/A,Fog-Thunderstorm,Unknown,150,1988-08-27 12:25:00<br />
+8:33 AM,-9999,-9999,N/A,29.98,2.0,South,17.3,24.2,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,180,1988-08-27 12:33:00<br />
+8:45 AM,-9999,-9999,N/A,29.99,0.8,South,20.7,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,190,1988-08-27 12:45:00<br />
+9:00 AM,69.1,68.0,96,30.00,0.2,South,23.0,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,170,1988-08-27 13:00:00<br />
+9:09 AM,-9999,-9999,N/A,29.98,2.0,WSW,5.8,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,250,1988-08-27 13:09:00<br />
+9:13 AM,-9999,-9999,N/A,29.98,3.0,SE,5.8,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,140,1988-08-27 13:13:00<br />
+9:42 AM,-9999,-9999,N/A,29.97,5.0,East,6.9,-,N/A,Fog-Rain,Light Rain,80,1988-08-27 13:42:00<br />
+10:00 AM,72.0,71.1,97,29.97,6.0,ENE,6.9,-,N/A,Fog,Fog,70,1988-08-27 14:00:00<br />
+11:00 AM,73.0,72.0,96,30.00,6.0,NNW,9.2,-,N/A,Fog,Fog,330,1988-08-27 15:00:00<br />
+11:29 AM,-9999,-9999,N/A,30.01,6.0,North,5.8,-,N/A,Fog,Fog,360,1988-08-27 15:29:00<br />
+12:00 PM,75.0,73.9,96,30.00,5.0,North,11.5,-,N/A,Fog-Rain,Light Rain,360,1988-08-27 16:00:00<br />
+12:01 PM,-9999,-9999,N/A,30.00,5.5,East,5.8,-,N/A,Fog-Rain,Rain,100,1988-08-27 16:01:00<br />
+12:08 PM,-9999,-9999,N/A,30.00,2.0,WNW,5.8,-,N/A,Fog-Rain,Light Rain,290,1988-08-27 16:08:00<br />
+12:28 PM,-9999,-9999,N/A,29.99,1.0,West,9.2,-,N/A,Fog-Rain,Rain,280,1988-08-27 16:28:00<br />
+12:41 PM,-9999,-9999,N/A,29.98,3.0,WNW,11.5,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,290,1988-08-27 16:41:00<br />
+1:00 PM,73.0,72.0,96,29.98,3.0,West,13.8,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,280,1988-08-27 17:00:00<br />
+1:11 PM,-9999,-9999,N/A,30.00,4.0,WNW,11.5,19.6,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,300,1988-08-27 17:11:00<br />
+1:19 PM,-9999,-9999,N/A,29.99,3.0,WNW,11.5,23.0,N/A,Rain-Thunderstorm,Thunderstorms and Rain,290,1988-08-27 17:19:00<br />
+1:29 PM,-9999,-9999,N/A,29.99,1.0,WNW,13.8,23.0,N/A,Rain-Thunderstorm,Thunderstorms and Rain,290,1988-08-27 17:29:00<br />
+1:40 PM,-9999,-9999,N/A,30.00,4.0,WNW,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,300,1988-08-27 17:40:00<br />
+2:00 PM,70.0,70.0,100,30.00,6.0,NNW,11.5,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,330,1988-08-27 18:00:00<br />
+2:10 PM,-9999,-9999,N/A,30.00,2.0,NE,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,40,1988-08-27 18:10:00<br />
+2:22 PM,-9999,-9999,N/A,30.03,1.0,East,11.5,23.0,N/A,Rain-Thunderstorm,Thunderstorms and Rain,90,1988-08-27 18:22:00<br />
+2:24 PM,-9999,-9999,N/A,30.03,0.5,East,13.8,23.0,N/A,Rain-Thunderstorm,Thunderstorms and Rain,100,1988-08-27 18:24:00<br />
+3:00 PM,69.1,68.0,96,30.03,0.5,ESE,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,110,1988-08-27 19:00:00<br />
+3:20 PM,-9999,-9999,N/A,30.00,3.0,NE,5.8,-,N/A,Rain,Rain Showers,40,1988-08-27 19:20:00<br />
+4:00 PM,69.1,68.0,96,29.98,2.0,NNW,9.2,-,N/A,Rain,Rain Showers,340,1988-08-27 20:00:00<br />
+4:16 PM,-9999,-9999,N/A,29.96,3.0,ENE,4.6,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,60,1988-08-27 20:16:00<br />
+5:00 PM,70.0,69.1,97,29.96,4.0,SE,8.1,-,N/A,Rain,Light Rain Showers,140,1988-08-27 21:00:00<br />
+6:00 PM,70.0,70.0,100,29.96,3.0,ESE,8.1,-,N/A,Rain,Rain Showers,120,1988-08-27 22:00:00<br />
+6:40 PM,-9999,-9999,N/A,29.93,5.0,East,5.8,-,N/A,Rain,Light Rain Showers,100,1988-08-27 22:40:00<br />
+7:00 PM,71.1,70.0,96,29.91,6.0,NE,6.9,-,N/A,Rain,Light Rain Showers,50,1988-08-27 23:00:00<br />
+8:00 PM,70.0,70.0,100,29.91,7.0,ENE,8.1,-,N/A,,Mostly Cloudy,60,1988-08-28 00:00:00<br />
+9:00 PM,71.1,71.1,100,29.92,6.0,NE,8.1,-,N/A,,Drizzle,40,1988-08-28 01:00:00<br />
+10:00 PM,72.0,71.1,97,29.93,7.0,NE,8.1,-,N/A,,Mostly Cloudy,40,1988-08-28 02:00:00<br />
+11:00 PM,71.1,71.1,100,29.94,7.0,NE,6.9,-,N/A,,Scattered Clouds,40,1988-08-28 03:00:00<br />

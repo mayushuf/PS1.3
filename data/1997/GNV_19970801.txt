@@ -1,0 +1,32 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:51 AM,75.9,75.2,98,30.13,4.0,East,5.8,-,N/A,,Mostly Cloudy,100,1997-08-01 04:51:00<br />
+1:47 AM,75.4,74.7,98,30.12,4.0,East,4.6,-,N/A,,Mostly Cloudy,90,1997-08-01 05:47:00<br />
+2:53 AM,74.7,73.8,97,30.09,5.0,East,4.6,-,N/A,,Mostly Cloudy,90,1997-08-01 06:53:00<br />
+3:51 AM,74.5,73.6,97,30.09,4.0,SE,4.6,-,N/A,Rain,Light Rain,130,1997-08-01 07:51:00<br />
+4:48 AM,74.5,73.6,97,30.08,4.0,SE,4.6,-,N/A,Rain,Light Rain,130,1997-08-01 08:48:00<br />
+5:50 AM,74.7,73.8,97,30.09,4.0,SSE,4.6,-,N/A,,Mostly Cloudy,150,1997-08-01 09:50:00<br />
+6:28 AM,75.2,71.6,89,30.11,6.0,West,11.5,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,260,1997-08-01 10:28:00<br />
+6:47 AM,73.4,71.6,94,30.11,6.0,SSW,4.6,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,210,1997-08-01 10:47:00<br />
+7:36 AM,73.4,71.6,94,30.13,6.0,Calm,Calm,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,0,1997-08-01 11:36:00<br />
+7:57 AM,71.6,70.7,97,30.16,3.0,West,11.5,23.0,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,280,1997-08-01 11:57:00<br />
+8:15 AM,69.8,68.0,94,30.17,2.0,North,-9999.0,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,0,1997-08-01 12:15:00<br />
+8:50 AM,69.1,67.8,96,30.19,2.0,ESE,10.4,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,110,1997-08-01 12:50:00<br />
+9:21 AM,69.8,68.0,94,30.18,7.0,ESE,10.4,-,N/A,Rain,Light Rain,110,1997-08-01 13:21:00<br />
+9:50 AM,69.8,67.8,93,30.17,7.0,ESE,8.1,-,N/A,Rain,Light Rain,110,1997-08-01 13:50:00<br />
+10:50 AM,70.5,68.2,92,30.16,7.0,ESE,4.6,-,N/A,,Overcast,110,1997-08-01 14:50:00<br />
+11:45 AM,72.5,69.4,90,30.16,7.0,SSW,4.6,-,N/A,,Overcast,210,1997-08-01 15:45:00<br />
+12:48 PM,73.6,70.7,91,30.17,7.0,SW,4.6,-,N/A,Rain,Light Rain,220,1997-08-01 16:48:00<br />
+1:50 PM,73.8,71.8,93,30.18,7.0,Calm,Calm,-,N/A,Rain,Light Rain,0,1997-08-01 17:50:00<br />
+2:50 PM,74.5,71.6,91,30.18,7.0,SSE,4.6,-,N/A,,Overcast,160,1997-08-01 18:50:00<br />
+3:25 PM,75.2,71.6,89,30.12,7.0,ESE,5.8,-,N/A,,Overcast,120,1997-08-01 19:25:00<br />
+3:50 PM,75.7,71.2,86,30.11,7.0,ESE,6.9,-,N/A,,Overcast,120,1997-08-01 19:50:00<br />
+4:47 PM,77.2,72.1,84,30.11,7.0,East,8.1,-,N/A,,Mostly Cloudy,100,1997-08-01 20:47:00<br />
+5:48 PM,78.3,72.0,81,30.11,7.0,SSE,9.2,-,N/A,,Mostly Cloudy,150,1997-08-01 21:48:00<br />
+6:12 PM,78.8,71.6,78,29.59,7.0,SSE,10.4,-,N/A,,Mostly Cloudy,160,1997-08-01 22:12:00<br />
+6:52 PM,77.9,71.6,81,30.09,7.0,SE,6.9,-,N/A,,Mostly Cloudy,140,1997-08-01 22:52:00<br />
+7:54 PM,76.6,72.7,87,30.12,7.0,South,5.8,-,N/A,,Mostly Cloudy,170,1997-08-01 23:54:00<br />
+8:52 PM,75.4,72.3,90,30.13,7.0,Calm,Calm,-,N/A,,Overcast,0,1997-08-02 00:52:00<br />
+9:50 PM,74.1,72.3,94,30.13,7.0,Calm,Calm,-,N/A,,Overcast,0,1997-08-02 01:50:00<br />
+10:49 PM,73.6,72.5,96,30.14,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1997-08-02 02:49:00<br />
+11:49 PM,89.6,72.3,57,30.14,7.0,Calm,Calm,-,N/A,,Overcast,0,1997-08-02 03:49:00<br />

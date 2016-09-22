@@ -1,0 +1,27 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,73.9,72.0,93,30.16,6.0,SE,4.6,-,N/A,,Drizzle,140,1974-08-16 04:00:00<br />
+1:00 AM,73.9,73.0,97,30.14,6.0,Calm,Calm,-,N/A,,Drizzle,0,1974-08-16 05:00:00<br />
+2:00 AM,73.9,73.0,97,30.14,6.0,Calm,Calm,-,N/A,,Drizzle,0,1974-08-16 06:00:00<br />
+3:00 AM,73.9,72.0,93,30.14,6.0,Calm,Calm,-,N/A,,Drizzle,0,1974-08-16 07:00:00<br />
+4:00 AM,73.9,72.0,93,30.13,6.0,Calm,Calm,-,N/A,,Drizzle,0,1974-08-16 08:00:00<br />
+5:00 AM,73.0,72.0,96,30.13,6.0,Calm,Calm,-,N/A,,Drizzle,0,1974-08-16 09:00:00<br />
+6:00 AM,72.0,71.1,97,30.13,6.0,Calm,Calm,-,N/A,,Drizzle,0,1974-08-16 10:00:00<br />
+7:00 AM,73.0,72.0,96,30.14,1.0,Calm,Calm,-,N/A,,Clear,0,1974-08-16 11:00:00<br />
+8:00 AM,73.9,71.1,91,30.16,3.0,Calm,Calm,-,N/A,,Clear,0,1974-08-16 12:00:00<br />
+9:00 AM,80.1,73.9,81,30.18,5.0,SE,4.6,-,N/A,,Drizzle,140,1974-08-16 13:00:00<br />
+10:00 AM,82.0,75.0,79,30.18,7.0,South,6.9,-,N/A,,Scattered Clouds,170,1974-08-16 14:00:00<br />
+11:00 AM,84.9,73.0,67,30.19,7.0,SW,5.8,-,N/A,,Scattered Clouds,230,1974-08-16 15:00:00<br />
+12:00 PM,87.1,75.0,67,30.19,7.0,South,9.2,-,N/A,,Mostly Cloudy,190,1974-08-16 16:00:00<br />
+1:00 PM,89.1,75.0,63,30.18,7.0,South,6.9,-,N/A,,Scattered Clouds,180,1974-08-16 17:00:00<br />
+2:00 PM,91.0,75.9,61,30.14,7.0,SSW,5.8,-,N/A,,Mostly Cloudy,200,1974-08-16 18:00:00<br />
+3:00 PM,87.1,75.0,67,30.14,7.0,West,23.0,34.5,N/A,Rain-Thunderstorm,Thunderstorms and Rain,260,1974-08-16 19:00:00<br />
+3:30 PM,-9999,-9999,N/A,30.15,2.0,SE,5.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,140,1974-08-16 19:30:00<br />
+4:00 PM,75.0,73.0,94,30.14,4.0,South,4.6,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,170,1974-08-16 20:00:00<br />
+5:00 PM,75.0,73.0,94,30.14,7.0,NNE,5.8,-,N/A,Thunderstorm,Thunderstorm,30,1974-08-16 21:00:00<br />
+6:00 PM,-9999,-9999,N/A,30.14,7.0,ESE,5.8,-,N/A,,Overcast,120,1974-08-16 22:00:00<br />
+7:00 PM,75.0,73.0,94,30.13,5.0,SE,5.8,-,N/A,,Drizzle,130,1974-08-16 23:00:00<br />
+8:00 PM,75.0,73.0,94,30.13,4.0,East,5.8,-,N/A,,Drizzle,100,1974-08-17 00:00:00<br />
+9:00 PM,75.0,72.0,90,30.14,5.0,SE,6.9,-,N/A,,Drizzle,140,1974-08-17 01:00:00<br />
+10:00 PM,73.9,72.0,93,30.16,6.0,SE,5.8,-,N/A,,Drizzle,140,1974-08-17 02:00:00<br />
+11:00 PM,73.0,71.1,93,30.16,6.0,Calm,Calm,-,N/A,,Drizzle,0,1974-08-17 03:00:00<br />

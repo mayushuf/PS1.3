@@ -1,0 +1,26 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,81.0,73.0,77,30.12,7.0,South,5.8,-,N/A,,Partly Cloudy,180,1987-08-29 04:00:00<br />
+1:00 AM,80.1,73.0,79,30.12,7.0,South,5.8,-,N/A,,Scattered Clouds,170,1987-08-29 05:00:00<br />
+2:00 AM,78.1,73.0,84,30.12,7.0,South,5.8,-,N/A,,Scattered Clouds,180,1987-08-29 06:00:00<br />
+3:00 AM,77.0,72.0,84,30.11,7.0,SSW,3.5,-,N/A,,Mostly Cloudy,200,1987-08-29 07:00:00<br />
+4:00 AM,77.0,72.0,84,30.10,7.0,West,3.5,-,N/A,,Mostly Cloudy,270,1987-08-29 08:00:00<br />
+5:00 AM,75.9,72.0,87,30.09,7.0,West,4.6,-,N/A,,Mostly Cloudy,270,1987-08-29 09:00:00<br />
+6:00 AM,73.9,71.1,91,30.10,7.0,East,3.5,-,N/A,,Mostly Cloudy,90,1987-08-29 10:00:00<br />
+7:00 AM,73.0,71.1,93,30.11,7.0,WNW,3.5,-,N/A,,Mostly Cloudy,300,1987-08-29 11:00:00<br />
+8:00 AM,75.0,72.0,90,30.14,7.0,NNW,3.5,-,N/A,,Mostly Cloudy,340,1987-08-29 12:00:00<br />
+9:00 AM,82.0,73.9,76,30.14,7.0,South,5.8,-,N/A,,Partly Cloudy,180,1987-08-29 13:00:00<br />
+10:00 AM,87.1,73.9,65,30.14,7.0,SSW,9.2,-,N/A,,Partly Cloudy,210,1987-08-29 14:00:00<br />
+11:00 AM,89.1,73.0,59,30.13,7.0,SSE,5.8,-,N/A,,Partly Cloudy,150,1987-08-29 15:00:00<br />
+12:00 PM,91.0,73.9,57,30.12,7.0,North,8.1,-,N/A,,Scattered Clouds,350,1987-08-29 16:00:00<br />
+1:00 PM,91.0,73.0,55,30.12,7.0,NW,4.6,-,N/A,,Scattered Clouds,310,1987-08-29 17:00:00<br />
+2:00 PM,90.0,72.0,55,30.12,7.0,WNW,5.8,-,N/A,,Scattered Clouds,300,1987-08-29 18:00:00<br />
+3:00 PM,91.9,72.0,52,30.09,7.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1987-08-29 19:00:00<br />
+4:00 PM,96.1,70.0,43,30.05,7.0,SW,4.6,-,N/A,,Scattered Clouds,220,1987-08-29 20:00:00<br />
+5:00 PM,95.0,71.1,46,30.04,7.0,ESE,6.9,-,N/A,,Scattered Clouds,120,1987-08-29 21:00:00<br />
+6:00 PM,91.0,71.1,52,30.03,7.0,SSE,6.9,-,N/A,,Scattered Clouds,160,1987-08-29 22:00:00<br />
+7:00 PM,90.0,75.0,61,30.03,7.0,WNW,9.2,-,N/A,,Mostly Cloudy,290,1987-08-29 23:00:00<br />
+8:00 PM,84.9,75.0,72,30.05,7.0,NNE,5.8,-,N/A,,Mostly Cloudy,20,1987-08-30 00:00:00<br />
+9:00 PM,82.9,75.0,77,30.05,7.0,ENE,5.8,-,N/A,,Partly Cloudy,70,1987-08-30 01:00:00<br />
+10:00 PM,82.0,71.1,69,30.09,7.0,East,6.9,-,N/A,,Partly Cloudy,90,1987-08-30 02:00:00<br />
+11:00 PM,78.1,72.0,81,30.08,7.0,ESE,4.6,-,N/A,,Partly Cloudy,120,1987-08-30 03:00:00<br />

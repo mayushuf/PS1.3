@@ -1,0 +1,23 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,72.0,68.0,87,30.11,10.0,East,5.8,-,N/A,,Clear,100,1976-08-28 04:00:00<br />
+2:00 AM,72.0,68.0,87,30.12,7.0,Calm,Calm,-,N/A,,Clear,0,1976-08-28 06:00:00<br />
+4:00 AM,69.1,66.9,93,30.10,7.0,Calm,Calm,-,N/A,,Clear,0,1976-08-28 08:00:00<br />
+5:00 AM,68.0,66.9,96,30.09,7.0,Calm,Calm,-,N/A,,Clear,0,1976-08-28 09:00:00<br />
+6:00 AM,68.0,66.9,96,30.09,7.0,NNE,4.6,-,N/A,,Clear,30,1976-08-28 10:00:00<br />
+7:00 AM,68.0,66.9,96,30.11,7.0,NW,4.6,-,N/A,,Clear,310,1976-08-28 11:00:00<br />
+8:00 AM,69.1,68.0,96,30.12,7.0,Calm,Calm,-,N/A,,Clear,0,1976-08-28 12:00:00<br />
+9:00 AM,75.9,70.0,82,30.15,15.0,East,8.1,-,N/A,,Clear,80,1976-08-28 13:00:00<br />
+10:00 AM,82.0,71.1,69,30.14,15.0,ESE,8.1,-,N/A,,Clear,120,1976-08-28 14:00:00<br />
+12:00 PM,89.1,68.0,50,30.14,15.0,ESE,9.2,-,N/A,,Scattered Clouds,120,1976-08-28 16:00:00<br />
+1:00 PM,90.0,69.1,50,30.14,15.0,NW,4.6,-,N/A,,Scattered Clouds,320,1976-08-28 17:00:00<br />
+2:00 PM,90.0,68.0,48,30.13,15.0,NNE,5.8,-,N/A,,Mostly Cloudy,30,1976-08-28 18:00:00<br />
+3:00 PM,90.0,68.0,48,30.11,15.0,East,8.1,-,N/A,,Scattered Clouds,100,1976-08-28 19:00:00<br />
+4:00 PM,91.0,69.1,48,30.09,15.0,East,11.5,-,N/A,,Scattered Clouds,80,1976-08-28 20:00:00<br />
+5:00 PM,90.0,68.0,48,30.07,15.0,East,12.7,-,N/A,,Scattered Clouds,80,1976-08-28 21:00:00<br />
+6:00 PM,89.1,69.1,52,30.06,15.0,East,13.8,-,N/A,,Scattered Clouds,90,1976-08-28 22:00:00<br />
+7:00 PM,84.9,69.1,59,30.06,15.0,East,10.4,-,N/A,,Scattered Clouds,90,1976-08-28 23:00:00<br />
+8:00 PM,81.0,69.1,67,30.07,15.0,East,9.2,-,N/A,,Scattered Clouds,100,1976-08-29 00:00:00<br />
+9:00 PM,79.0,70.0,74,30.08,15.0,ESE,6.9,-,N/A,,Scattered Clouds,110,1976-08-29 01:00:00<br />
+10:00 PM,77.0,70.0,79,30.10,15.0,East,3.5,-,N/A,,Scattered Clouds,80,1976-08-29 02:00:00<br />
+11:00 PM,75.0,70.0,84,30.11,15.0,East,5.8,-,N/A,,Scattered Clouds,90,1976-08-29 03:00:00<br />

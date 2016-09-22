@@ -1,0 +1,24 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,77.0,73.0,88,30.03,10.0,Calm,Calm,-,N/A,,Overcast,0,1979-08-31 04:00:00<br />
+1:00 AM,77.0,73.9,90,30.00,10.0,Calm,Calm,-,N/A,,Overcast,0,1979-08-31 05:00:00<br />
+2:00 AM,75.9,73.9,94,30.00,7.0,NNW,5.8,-,N/A,,Overcast,340,1979-08-31 06:00:00<br />
+3:00 AM,75.0,73.0,94,29.99,7.0,NNW,6.9,-,N/A,,Overcast,340,1979-08-31 07:00:00<br />
+4:00 AM,73.9,73.0,97,29.97,7.0,NNE,5.8,-,N/A,,Mostly Cloudy,20,1979-08-31 08:00:00<br />
+5:00 AM,73.0,73.0,100,29.97,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1979-08-31 09:00:00<br />
+6:00 AM,73.0,72.0,96,29.97,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1979-08-31 10:00:00<br />
+7:00 AM,72.0,72.0,100,29.99,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1979-08-31 11:00:00<br />
+8:00 AM,73.9,73.0,97,30.00,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1979-08-31 12:00:00<br />
+9:00 AM,79.0,73.9,84,30.00,15.0,East,5.8,-,N/A,,Mostly Cloudy,80,1979-08-31 13:00:00<br />
+10:00 AM,82.0,75.0,79,30.00,15.0,NE,6.9,-,N/A,,Mostly Cloudy,50,1979-08-31 14:00:00<br />
+10:27 AM,-9999,-9999,N/A,30.02,15.0,ENE,6.9,-,N/A,,Mostly Cloudy,70,1979-08-31 14:27:00<br />
+11:00 AM,82.0,75.0,79,30.02,15.0,ENE,5.8,-,N/A,,Scattered Clouds,70,1979-08-31 15:00:00<br />
+12:00 PM,86.0,73.0,65,30.01,15.0,East,6.9,-,N/A,,Scattered Clouds,80,1979-08-31 16:00:00<br />
+1:00 PM,91.0,73.0,55,29.99,15.0,East,9.2,-,N/A,,Mostly Cloudy,100,1979-08-31 17:00:00<br />
+3:00 PM,91.9,72.0,52,29.94,15.0,ESE,11.5,-,N/A,,Mostly Cloudy,110,1979-08-31 19:00:00<br />
+3:10 PM,-9999,-9999,N/A,29.94,10.0,ENE,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,60,1979-08-31 19:10:00<br />
+4:00 PM,82.9,77.0,82,29.96,10.0,South,12.7,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,170,1979-08-31 20:00:00<br />
+6:00 PM,75.0,72.0,90,29.97,3.0,SSE,5.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,160,1979-08-31 22:00:00<br />
+9:00 PM,73.9,73.0,97,29.98,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1979-09-01 01:00:00<br />
+10:00 PM,73.9,73.0,97,29.98,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1979-09-01 02:00:00<br />
+11:00 PM,73.0,72.0,96,29.99,7.0,NNE,5.8,-,N/A,,Clear,30,1979-09-01 03:00:00<br />

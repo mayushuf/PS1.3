@@ -1,0 +1,31 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,75.0,73.0,94,30.16,7.0,Calm,Calm,-,N/A,,Clear,0,1986-08-23 04:00:00<br />
+1:00 AM,75.0,73.0,94,30.16,7.0,Calm,Calm,-,N/A,,Clear,0,1986-08-23 05:00:00<br />
+2:00 AM,73.9,73.0,97,30.14,7.0,WSW,3.5,-,N/A,,Clear,240,1986-08-23 06:00:00<br />
+3:00 AM,73.9,73.0,97,30.13,7.0,West,3.5,-,N/A,,Clear,270,1986-08-23 07:00:00<br />
+4:00 AM,73.9,72.0,93,30.11,6.0,Calm,Calm,-,N/A,Fog,Fog,0,1986-08-23 08:00:00<br />
+5:00 AM,72.0,71.1,97,30.10,6.0,Calm,Calm,-,N/A,Fog,Fog,0,1986-08-23 09:00:00<br />
+6:00 AM,72.0,70.0,93,30.11,5.5,West,4.6,-,N/A,Fog,Fog,280,1986-08-23 10:00:00<br />
+7:00 AM,72.0,70.0,93,30.11,5.5,Calm,Calm,-,N/A,Fog,Fog,0,1986-08-23 11:00:00<br />
+8:00 AM,72.0,71.1,97,30.13,5.5,West,3.5,-,N/A,Fog,Fog,280,1986-08-23 12:00:00<br />
+8:17 AM,-9999,-9999,N/A,30.13,2.0,Calm,Calm,-,N/A,Fog,Fog,0,1986-08-23 12:17:00<br />
+8:27 AM,-9999,-9999,N/A,30.13,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1986-08-23 12:27:00<br />
+9:00 AM,78.1,75.0,90,30.14,7.0,Calm,Calm,-,N/A,,Clear,0,1986-08-23 13:00:00<br />
+10:00 AM,82.9,75.0,77,30.14,7.0,NW,5.8,-,N/A,,Clear,320,1986-08-23 14:00:00<br />
+11:00 AM,84.9,75.0,72,30.14,8.0,NNE,16.1,-,N/A,,Scattered Clouds,30,1986-08-23 15:00:00<br />
+12:00 PM,89.1,75.0,63,30.13,7.0,NW,5.8,-,N/A,,Mostly Cloudy,320,1986-08-23 16:00:00<br />
+1:00 PM,88.0,73.0,61,30.11,7.0,NNE,5.8,-,N/A,,Mostly Cloudy,20,1986-08-23 17:00:00<br />
+2:00 PM,91.0,71.1,52,30.10,7.0,Calm,Calm,-,N/A,,Unknown,0,1986-08-23 18:00:00<br />
+3:00 PM,91.9,71.1,50,30.07,7.0,North,9.2,-,N/A,,Scattered Clouds,350,1986-08-23 19:00:00<br />
+4:00 PM,91.9,70.0,48,30.04,7.0,NE,5.8,-,N/A,,Scattered Clouds,40,1986-08-23 20:00:00<br />
+5:00 PM,91.9,73.0,54,30.02,8.0,ESE,8.1,-,N/A,,Scattered Clouds,110,1986-08-23 21:00:00<br />
+6:00 PM,91.9,73.0,54,30.01,8.0,SSE,6.9,-,N/A,,Scattered Clouds,160,1986-08-23 22:00:00<br />
+7:00 PM,91.9,73.0,54,30.01,8.0,SW,4.6,-,N/A,,Scattered Clouds,220,1986-08-23 23:00:00<br />
+7:35 PM,-9999,-9999,N/A,30.01,7.0,ENE,9.2,-,N/A,Thunderstorm,Thunderstorm,70,1986-08-23 23:35:00<br />
+8:00 PM,84.0,75.9,76,30.04,0.5,East,17.3,23.0,N/A,Rain-Thunderstorm,Thunderstorms and Rain,90,1986-08-24 00:00:00<br />
+8:01 PM,-9999,-9999,N/A,30.05,2.0,South,13.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,180,1986-08-24 00:01:00<br />
+8:40 PM,-9999,-9999,N/A,30.05,3.0,South,5.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,180,1986-08-24 00:40:00<br />
+9:00 PM,73.9,71.1,91,30.06,3.0,South,13.8,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,190,1986-08-24 01:00:00<br />
+10:00 PM,73.9,70.0,87,30.06,7.0,SSW,5.8,-,N/A,,Overcast,210,1986-08-24 02:00:00<br />
+11:00 PM,73.9,71.1,91,30.06,7.0,West,4.6,-,N/A,,Mostly Cloudy,260,1986-08-24 03:00:00<br />

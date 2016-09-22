@@ -1,0 +1,26 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:47 AM,72.7,70.5,93,30.12,5.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-08-01 04:47:00<br />
+1:54 AM,73.9,73.9,100,30.11,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-08-01 05:54:00<br />
+2:53 AM,73.9,71.6,92,30.10,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-08-01 06:53:00<br />
+3:53 AM,73.6,70.7,91,30.09,6.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1996-08-01 07:53:00<br />
+4:51 AM,72.5,70.7,94,30.08,5.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1996-08-01 08:51:00<br />
+5:48 AM,72.9,70.7,93,30.08,5.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1996-08-01 09:48:00<br />
+6:46 AM,72.7,70.0,91,30.08,6.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1996-08-01 10:46:00<br />
+7:48 AM,73.6,70.5,90,30.09,6.0,Calm,Calm,-,N/A,,Partly Cloudy,0,1996-08-01 11:48:00<br />
+8:50 AM,76.6,71.6,84,30.09,7.0,SSW,8.1,-,N/A,,Scattered Clouds,200,1996-08-01 12:50:00<br />
+9:50 AM,82.4,73.4,74,30.09,7.0,SSW,5.8,-,N/A,,Partly Cloudy,200,1996-08-01 13:50:00<br />
+10:47 AM,85.8,75.6,71,30.10,7.0,WSW,4.6,-,N/A,,Mostly Cloudy,240,1996-08-01 14:47:00<br />
+11:53 AM,89.2,71.4,56,30.09,7.0,South,8.1,-,N/A,,Mostly Cloudy,190,1996-08-01 15:53:00<br />
+12:50 PM,72.0,69.4,92,30.14,2.0,NW,6.9,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,310,1996-08-01 16:50:00<br />
+1:48 PM,73.4,70.9,92,30.10,6.0,East,4.6,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,90,1996-08-01 17:48:00<br />
+2:50 PM,76.1,72.3,88,30.08,7.0,West,6.9,-,N/A,,Overcast,270,1996-08-01 18:50:00<br />
+3:50 PM,79.3,72.9,80,30.05,7.0,West,6.9,-,N/A,,Overcast,260,1996-08-01 19:50:00<br />
+4:50 PM,78.8,72.5,81,30.04,7.0,WSW,5.8,-,N/A,,Overcast,240,1996-08-01 20:50:00<br />
+5:50 PM,82.0,71.6,71,30.04,7.0,WSW,9.2,-,N/A,,Mostly Cloudy,250,1996-08-01 21:50:00<br />
+6:50 PM,80.2,72.3,77,30.05,7.0,West,5.8,-,N/A,,Mostly Cloudy,260,1996-08-01 22:50:00<br />
+7:50 PM,79.3,73.2,81,30.05,10.0,South,5.8,-,N/A,,Overcast,190,1996-08-01 23:50:00<br />
+8:50 PM,78.3,73.6,85,30.07,10.0,South,4.6,-,N/A,,Overcast,180,1996-08-02 00:50:00<br />
+9:50 PM,77.7,74.5,90,30.08,10.0,SW,4.6,-,N/A,,Mostly Cloudy,220,1996-08-02 01:50:00<br />
+10:48 PM,77.0,73.4,89,30.09,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-08-02 02:48:00<br />
+11:48 PM,76.3,74.1,93,30.08,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-08-02 03:48:00<br />

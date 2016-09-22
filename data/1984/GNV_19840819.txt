@@ -1,0 +1,36 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,77.0,73.9,90,29.87,4.0,ESE,4.6,-,N/A,,Drizzle,110,1984-08-19 04:00:00<br />
+1:00 AM,75.9,75.0,97,29.86,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1984-08-19 05:00:00<br />
+2:00 AM,75.0,73.9,96,29.86,5.8,Calm,Calm,-,N/A,Fog,Fog,0,1984-08-19 06:00:00<br />
+3:00 AM,75.0,75.0,100,29.84,5.8,Calm,Calm,-,N/A,Fog,Fog,0,1984-08-19 07:00:00<br />
+4:00 AM,75.0,73.9,96,29.83,10.5,Calm,Calm,-,N/A,Fog,Fog,0,1984-08-19 08:00:00<br />
+5:00 AM,73.9,73.9,100,29.84,10.5,Calm,Calm,-,N/A,Fog,Fog,0,1984-08-19 09:00:00<br />
+6:00 AM,73.9,73.9,100,29.84,5.8,Calm,Calm,-,N/A,Fog,Fog,0,1984-08-19 10:00:00<br />
+6:24 AM,-9999,-9999,N/A,29.84,3.0,Calm,Calm,-,N/A,Fog-Thunderstorm,Unknown,0,1984-08-19 10:24:00<br />
+7:00 AM,75.0,73.0,94,29.86,3.0,SSW,3.5,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,210,1984-08-19 11:00:00<br />
+7:23 AM,-9999,-9999,N/A,29.86,3.0,SSW,3.5,-,N/A,Fog,Fog,210,1984-08-19 11:23:00<br />
+8:00 AM,75.9,73.9,94,29.87,3.0,WSW,4.6,-,N/A,Fog,Fog,240,1984-08-19 12:00:00<br />
+9:00 AM,78.1,73.9,87,29.89,5.0,NW,5.8,-,N/A,Fog-Rain,Light Rain Showers,320,1984-08-19 13:00:00<br />
+10:00 AM,77.0,73.9,90,29.89,5.0,WSW,4.6,-,N/A,Fog-Rain,Light Rain Showers,240,1984-08-19 14:00:00<br />
+11:00 AM,80.1,75.9,87,29.90,3.0,WSW,5.8,-,N/A,Fog,Fog,240,1984-08-19 15:00:00<br />
+12:00 PM,82.0,73.0,74,29.88,6.0,West,8.1,-,N/A,,Drizzle,270,1984-08-19 16:00:00<br />
+1:00 PM,82.9,75.0,77,29.87,6.0,SW,9.2,-,N/A,,Drizzle,220,1984-08-19 17:00:00<br />
+2:00 PM,86.0,73.9,67,29.85,5.0,West,9.2,-,N/A,,Drizzle,260,1984-08-19 18:00:00<br />
+3:00 PM,88.0,71.1,57,29.84,5.0,West,8.1,-,N/A,,Drizzle,270,1984-08-19 19:00:00<br />
+3:13 PM,-9999,-9999,N/A,29.84,5.0,West,9.2,-,N/A,Thunderstorm,Unknown,260,1984-08-19 19:13:00<br />
+3:20 PM,-9999,-9999,N/A,29.88,0.5,West,23.0,36.8,N/A,Rain-Thunderstorm,Thunderstorms and Rain,260,1984-08-19 19:20:00<br />
+3:27 PM,-9999,-9999,N/A,29.88,0.2,North,-9999.0,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,0,1984-08-19 19:27:00<br />
+3:35 PM,-9999,-9999,N/A,29.88,5.0,South,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,180,1984-08-19 19:35:00<br />
+4:00 PM,72.0,72.0,100,29.86,7.0,WSW,5.8,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,250,1984-08-19 20:00:00<br />
+4:13 PM,-9999,-9999,N/A,29.85,7.0,Calm,Calm,-,N/A,,Overcast,0,1984-08-19 20:13:00<br />
+5:00 PM,77.0,75.9,96,29.83,7.0,SSW,6.9,-,N/A,,Mostly Cloudy,200,1984-08-19 21:00:00<br />
+6:00 PM,80.1,73.0,79,29.81,6.0,South,11.5,-,N/A,,Drizzle,180,1984-08-19 22:00:00<br />
+7:00 PM,79.0,77.0,94,29.84,6.0,ESE,4.6,-,N/A,,Drizzle,120,1984-08-19 23:00:00<br />
+8:00 PM,78.1,75.9,93,29.84,5.0,East,5.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,100,1984-08-20 00:00:00<br />
+9:00 PM,77.0,75.0,94,29.85,5.0,SE,5.8,-,N/A,,Drizzle,130,1984-08-20 01:00:00<br />
+9:24 PM,-9999,-9999,N/A,29.86,5.0,SSE,5.8,-,N/A,Thunderstorm,Unknown,150,1984-08-20 01:24:00<br />
+10:00 PM,75.9,75.0,97,29.87,5.0,South,5.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,180,1984-08-20 02:00:00<br />
+10:05 PM,-9999,-9999,N/A,29.91,5.5,WSW,18.4,25.3,N/A,Rain-Thunderstorm,Thunderstorms and Rain,250,1984-08-20 02:05:00<br />
+10:22 PM,-9999,-9999,N/A,29.91,3.0,SSW,5.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,200,1984-08-20 02:22:00<br />
+11:00 PM,72.0,72.0,100,29.88,5.0,SSW,5.8,-,N/A,,Drizzle,200,1984-08-20 03:00:00<br />

@@ -1,0 +1,26 @@
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:49 AM,74.1,72.1,94,30.08,7.0,WNW,4.6,-,N/A,,Mostly Cloudy,300,1996-08-28 04:49:00<br />
+1:48 AM,73.2,71.6,95,30.08,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-08-28 05:48:00<br />
+2:48 AM,71.4,69.8,95,30.08,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-08-28 06:48:00<br />
+3:49 AM,71.6,70.0,95,30.08,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-08-28 07:49:00<br />
+4:48 AM,70.7,69.4,96,30.07,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-08-28 08:48:00<br />
+5:49 AM,71.8,70.3,95,30.08,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-08-28 09:49:00<br />
+6:49 AM,71.6,71.6,100,30.10,6.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-08-28 10:49:00<br />
+7:49 AM,73.4,71.6,94,30.10,6.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-08-28 11:49:00<br />
+8:52 AM,75.9,73.2,91,30.11,6.0,NW,4.6,-,N/A,,Mostly Cloudy,310,1996-08-28 12:52:00<br />
+9:54 AM,80.4,73.4,79,30.12,7.0,NNW,6.9,-,N/A,,Mostly Cloudy,330,1996-08-28 13:54:00<br />
+10:50 AM,82.0,73.0,74,30.11,7.0,NNW,4.6,-,N/A,,Mostly Cloudy,340,1996-08-28 14:50:00<br />
+11:50 AM,84.4,72.1,67,30.10,7.0,West,5.8,-,N/A,,Mostly Cloudy,270,1996-08-28 15:50:00<br />
+12:50 PM,88.7,71.4,56,30.10,7.0,West,8.1,-,N/A,,Mostly Cloudy,280,1996-08-28 16:50:00<br />
+1:49 PM,90.1,71.6,54,30.07,7.0,NW,6.9,-,N/A,,Mostly Cloudy,310,1996-08-28 17:49:00<br />
+2:52 PM,88.2,70.5,56,30.07,7.0,West,9.2,-,N/A,,Mostly Cloudy,270,1996-08-28 18:52:00<br />
+3:50 PM,80.1,75.6,86,30.07,7.0,WSW,6.9,-,N/A,,Mostly Cloudy,250,1996-08-28 19:50:00<br />
+4:50 PM,86.2,73.8,66,30.01,7.0,West,5.8,-,N/A,,Scattered Clouds,260,1996-08-28 20:50:00<br />
+5:50 PM,87.1,73.2,63,30.01,7.0,West,6.9,-,N/A,,Scattered Clouds,260,1996-08-28 21:50:00<br />
+6:50 PM,86.0,72.0,63,30.02,7.0,WNW,5.8,-,N/A,,Scattered Clouds,290,1996-08-28 22:50:00<br />
+7:50 PM,81.3,72.7,75,30.02,7.0,WNW,4.6,-,N/A,,Mostly Cloudy,290,1996-08-28 23:50:00<br />
+8:50 PM,80.1,72.5,78,30.03,7.0,WNW,4.6,-,N/A,,Mostly Cloudy,290,1996-08-29 00:50:00<br />
+9:50 PM,78.3,72.3,82,30.07,7.0,NW,4.6,-,N/A,,Mostly Cloudy,310,1996-08-29 01:50:00<br />
+10:50 PM,76.8,72.5,86,30.09,7.0,NW,4.6,-,N/A,,Mostly Cloudy,310,1996-08-29 02:50:00<br />
+11:50 PM,74.8,72.1,91,30.10,7.0,North,4.6,-,N/A,,Mostly Cloudy,350,1996-08-29 03:50:00<br />
