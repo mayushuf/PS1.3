@@ -1,0 +1,41 @@
+Takes couple of minute to get solution for the first part
+Please wait ...
+daily temperature file created in maxtemp.txt
+First and last five observations are as follows
+Year Maxtemp
+1973 88.0
+1973 84.9
+1973 88.9
+1973 93.9
+1973 90.0
+2016 93.0
+2016 93.0
+2016 93.0
+2016 86.0
+2016 82.4
+Yearly temperature file created named maxtemp_Yearly.txt
+First and last five observations and last five observations
+Year Maxtemp
+1973 95.0
+1974 95.0
+1975 97.0
+1976 95.0
+1977 95.0
+2012 93.9
+2013 96.1
+2014 97.0
+2015 93.0
+2016 96.1
+Five years with highest temperature
+Year Maxtemp
+1999 99.0
+2011 98.1
+1986 98.1
+2014 97.0
+2010 97.0
+Five years with lowest temperature
+1994 91.0
+2003 91.4
+1992 91.9
+1996 92.1
+1985 93.0
