@@ -23,7 +23,7 @@ echo "Year" "Maxtemp" >>  /ufrc/zoo6927/share/yushuf/PS1.3/maxtemp.txt
 for year in {1973..2016}
 do
 
- 	cd /ufrc/zoo6927/share/yushuf/PS1.3/data/$year
+ 	cd /ufrc/zoo6927/share/yushuf/backupps13/PS1.3/data/$year
 	x=`ls`
   	for files in $x 
 	do
